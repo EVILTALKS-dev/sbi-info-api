@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "stage": "APPLICATION PENDING"
+  },
+  {
+    "id": 2,
+    "stage": "APPROVAL PENDING"
+  },
+  {
+    "id": 3,
+    "stage": "APPROVED"
+  },
+  {
+    "id": 4,
+    "stage": "ASSESSMENT PENDING"
+  },
+  {
+    "id": 5,
+    "stage": "ASSESSMENT COMPLETED"
+  },
+  {
+    "id": 6,
+    "stage": "REFERRED BACK"
+  },
+  {
+    "id": 7,
+    "stage": "REJECTED"
+  }
+]
